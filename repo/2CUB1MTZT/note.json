@@ -1,0 +1,43 @@
+{
+  "paragraphs": [
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1506321246198_1489114897",
+      "id": "20170925-120406_1266827701",
+      "dateCreated": "Sep 25, 2017 12:04:06 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "sample1",
+  "id": "2CUB1MTZT",
+  "angularObjects": {
+    "2CWHC6BG4:shared_process": [],
+    "2CTBFRS9M:shared_process": [],
+    "2CW5HXMRK:shared_process": [],
+    "2CUS79WVE:shared_process": [],
+    "2CUPY5SP6:shared_process": [],
+    "2CV6KNUMZ:shared_process": [],
+    "2CUJUAA11:shared_process": [],
+    "2CTRV2D46:shared_process": [],
+    "2CW2WN84P:shared_process": [],
+    "2CWM1AA51:shared_process": [],
+    "2CVEBMQAB:shared_process": [],
+    "2CTPAERNW:shared_process": [],
+    "2CTE6UW3H:shared_process": [],
+    "2CSQWKAR3:shared_process": [],
+    "2CTGT918A:shared_process": [],
+    "2CWFK6XKQ:shared_process": [],
+    "2CVJ2H988:shared_process": [],
+    "2CUN8PBDU:shared_process": [],
+    "2CVY7C4UW:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
